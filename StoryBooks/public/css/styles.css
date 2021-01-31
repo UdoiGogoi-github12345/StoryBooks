@@ -1,0 +1,22 @@
+p{
+    margin:10px 0 !important
+}
+.login-container{
+    width:400 px;
+    margin-top:50 px;
+    text-align: center;
+}
+
+.fa-small{
+    font-size: 16px !important;
+}
+
+
+.btn-float{
+    float:left;
+    margin-right: 10 px;
+}
+
+.img-small{
+    width:180 px;
+}
