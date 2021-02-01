@@ -17,7 +17,7 @@ and login,also using handlebars as a templating engine.
  - Public stories of other users will be available to be seen by the individual logged-in user.
  - Private stories will be able to be viewed only the individual logged-in user
  - Users can Edit,Delete and modify their previously submitted Documents
- - A particular user can view the other stories(public-ones)of other users he/she feels are trulu amazing.
+ - A particular user can view the other stories(public-ones)of other users he/she feels are truly amazing.
  
  
 ## Thank You!!
