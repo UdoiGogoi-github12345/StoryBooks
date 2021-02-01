@@ -13,7 +13,7 @@ and login,also using handlebars as a templating engine.
  
 ## Features
  - Users can login to their profile through one or several Google Accounts
- - Users can contribjute valuable stories,stories of their life,major incidents,events,stories for children-moral stories,travel blogs and other interactive stories
+ - Users can contribute valuable stories,stories of their life,major incidents,events,stories for children-moral stories,travel blogs and other interactive stories
  - Public stories of other users will be available to be seen by the individual logged-in user.
  - Private stories will be able to be viewed only the individual logged-in user
  - Users can Edit,Delete and modify their previously submitted Documents
